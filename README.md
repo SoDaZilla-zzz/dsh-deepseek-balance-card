@@ -8,6 +8,14 @@ A draggable **liquid-glass floating card** for the [DeepSeek Harness](https://gi
 
 ---
 
+## 📸 Screenshots / 效果展示
+
+| Balance Card / 余额卡片 | Settings Panel / 设置面板 |
+| --- | --- |
+| ![Balance card](docs/screenshots/balance-card.jpeg) | ![Settings panel](docs/screenshots/settings-panel.jpeg) |
+
+---
+
 ## ✨ Features / 功能
 
 | English | 中文 |
