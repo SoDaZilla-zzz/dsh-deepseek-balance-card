@@ -10,8 +10,12 @@ A draggable **liquid-glass floating card** for the [DeepSeek Harness](https://gi
 
 ## 🎬 Demo / 效果演示
 
+![Demo GIF](docs/demo.gif)
+
 <video src="docs/demo.mp4" controls muted loop playsinline width="100%"></video>
 
+> GIF 预览 · 完整视频见下方播放器。
+>
 > 完整演示：液态玻璃效果、3D 立体厚度、颜色调节、余额与用量统计、充值入口。
 >
 > Full demo: liquid glass, 3D thickness, color customization, balance & usage stats, and top-up entry.
