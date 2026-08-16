@@ -12,7 +12,10 @@ A draggable **liquid-glass floating card** for the [DeepSeek Harness](https://gi
 
 | Balance Card / 余额卡片 | Settings Panel / 设置面板 |
 | --- | --- |
+| Light Mode / 浅色模式 | |
 | ![Balance card](docs/screenshots/balance-card.jpeg) | ![Settings panel](docs/screenshots/settings-panel.jpeg) |
+| Dark Mode / 深色模式 | |
+| ![Balance card dark](docs/screenshots/balance-card-dark.jpeg) | ![Settings panel dark](docs/screenshots/settings-panel-dark.jpeg) |
 
 ---
 
