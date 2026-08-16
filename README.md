@@ -6,6 +6,10 @@ A draggable **liquid-glass floating card** for the [DeepSeek Harness](https://gi
 
 <p align="center">Created with ❤️ by <a href="https://github.com/SoDaZilla-zzz">sooodaaa</a> · 创作者：sooodaaa</p>
 
+<p align="center">
+  <img src="docs/cover.jpg" alt="dsh-deepseek-balance-card cover" width="100%">
+</p>
+
 ---
 
 ## 🎬 Demo / 效果演示
