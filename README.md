@@ -38,6 +38,7 @@ A draggable **liquid-glass floating card** for the [DeepSeek Harness](https://gi
 | Shows total balance, availability, granted & topped-up balance | 显示总余额、可用状态、赠送余额与充值余额 |
 | Cumulative spend & cumulative tokens | 累计消费金额与累计 Token 用量 |
 | Time ranges: Today / Yesterday / Last 7 days / Last 30 days / All | 时间维度：今天 / 昨天 / 近7天 / 近30天 / 全部 |
+| Liquid-glass bar charts for 7d/30d spend & token trends | 近7天/近30天液态玻璃柱状图展示消费与 Token 趋势 |
 | One-click DeepSeek top-up link | 一键跳转 DeepSeek 官方充值入口 |
 | Manual API key input in the card settings | 支持在卡片设置中手动填写 API Key |
 | Falls back to the DSH `DEEPSEEK_API_KEY` credential | 未填写手动 Key 时自动使用 DSH 已配置的 `DEEPSEEK_API_KEY` |
