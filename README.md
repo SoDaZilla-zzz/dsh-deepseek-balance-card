@@ -1,4 +1,4 @@
-# dsh-deepseek-balance-card
+# dsh-liquid-glass-balance-card
 
 A draggable **liquid-glass floating card** for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (DSH) **web GUI** that shows your **DeepSeek API balance**, **cumulative spend**, and **token usage**.
 
@@ -7,7 +7,7 @@ A draggable **liquid-glass floating card** for the [DeepSeek Harness](https://gi
 <p align="center">Created with ❤️ by <a href="https://github.com/SoDaZilla-zzz">sooodaaa</a> · 创作者：sooodaaa</p>
 
 <p align="center">
-  <img src="docs/cover.jpg" alt="dsh-deepseek-balance-card cover" width="100%">
+  <img src="docs/cover.jpg" alt="dsh-liquid-glass-balance-card cover" width="100%">
 </p>
 
 ---
@@ -54,7 +54,7 @@ Requires the DSH CLI and [pnpm](https://pnpm.io/installation).
 需要 DSH CLI 与 [pnpm](https://pnpm.io/installation)。
 
 ```sh
-dsh plugin --profile web add dsh-deepseek-balance-card
+dsh plugin --profile web add dsh-liquid-glass-balance-card
 ```
 
 Restart DSH Web / 重启 DSH Web：
@@ -74,8 +74,8 @@ Open http://127.0.0.1:3080 and refresh the page. The card appears in the top-rig
 >
 > ```yaml
 > - insert:
->     - id: deepseek-balance-card
->       name: dsh-deepseek-balance-card
+>     - id: liquid-glass-balance-card
+>       name: dsh-liquid-glass-balance-card
 > ```
 
 ---
@@ -89,7 +89,7 @@ Click the gear icon on the card to open settings:
 点击卡片右上角的齿轮图标打开设置：
 
 1. Paste a DeepSeek API Key and click **Save** / 粘贴 DeepSeek API Key 并点击「保存」；
-2. The key is stored on the host under `$DSH_HOME/storages/dsh-deepseek-balance-card.json`; the browser only sees a masked value / Key 保存在宿主侧 `$DSH_HOME/storages/dsh-deepseek-balance-card.json`，浏览器只显示掩码；
+2. The key is stored on the host under `$DSH_HOME/storages/dsh-liquid-glass-balance-card.json`; the browser only sees a masked value / Key 保存在宿主侧 `$DSH_HOME/storages/dsh-liquid-glass-balance-card.json`，浏览器只显示掩码；
 3. Click **Clear** to remove the manual key and fall back to the DSH `DEEPSEEK_API_KEY` / 点击「清除」可删除手动 Key，之后回退使用 DSH 自身的 `DEEPSEEK_API_KEY`。
 
 > Manual key takes priority. If neither is configured, the card shows a clear error.
@@ -161,7 +161,7 @@ Statistics are aggregated **locally** from DSH session logs using the official D
 
 ```sh
 git clone <your-fork>
-cd dsh-deepseek-balance-card
+cd dsh-liquid-glass-balance-card
 # edit lib/index.js or lib/client.js, then install locally:
 # 修改 lib/index.js 或 lib/client.js 后本地安装测试：
 dsh plugin --profile web add .
