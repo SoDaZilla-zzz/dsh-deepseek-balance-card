@@ -1,0 +1,6 @@
+# dsh-deepseek-balance-card — DeepSeek 余额液态玻璃卡片插件。
+# Host half registers /api/deepseek-balance-card/* routes; the package also
+# declares a dsh.client web bundle that paints the top-right draggable card.
+- insert:
+    - id: deepseek-balance-card
+      name: dsh-deepseek-balance-card
