@@ -8,14 +8,13 @@ A draggable **liquid-glass floating card** for the [DeepSeek Harness](https://gi
 
 ---
 
-## 📸 Screenshots / 效果展示
+## 🎬 Demo / 效果演示
 
-| Balance Card / 余额卡片 | Settings Panel / 设置面板 |
-| --- | --- |
-| Light Mode / 浅色模式 | |
-| ![Balance card](docs/screenshots/balance-card.jpeg) | ![Settings panel](docs/screenshots/settings-panel.jpeg) |
-| Dark Mode / 深色模式 | |
-| ![Balance card dark](docs/screenshots/balance-card-dark.jpeg) | ![Settings panel dark](docs/screenshots/settings-panel-dark.jpeg) |
+<video src="docs/demo.mp4" controls muted loop playsinline width="100%"></video>
+
+> 完整演示：液态玻璃效果、3D 立体厚度、颜色调节、余额与用量统计、充值入口。
+>
+> Full demo: liquid glass, 3D thickness, color customization, balance & usage stats, and top-up entry.
 
 ---
 
