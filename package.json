@@ -1,5 +1,5 @@
 {
-  "name": "dsh-deepseek-balance-card",
+  "name": "dsh-liquid-glass-balance-card",
   "version": "0.1.0",
   "description": "DeepSeek Harness (DSH) web GUI plugin: a draggable liquid-glass floating card showing DeepSeek API balance, cumulative spend and token usage in the top-right corner.",
   "type": "module",
@@ -14,12 +14,12 @@
   "author": "sooodaaa",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SoDaZilla-zzz/dsh-deepseek-balance-card.git"
+    "url": "https://github.com/SoDaZilla-zzz/dsh-liquid-glass-balance-card.git"
   },
   "bugs": {
-    "url": "https://github.com/SoDaZilla-zzz/dsh-deepseek-balance-card/issues"
+    "url": "https://github.com/SoDaZilla-zzz/dsh-liquid-glass-balance-card/issues"
   },
-  "homepage": "https://github.com/SoDaZilla-zzz/dsh-deepseek-balance-card",
+  "homepage": "https://github.com/SoDaZilla-zzz/dsh-liquid-glass-balance-card",
   "exports": {
     ".": "./lib/index.js",
     "./client": "./lib/client.js",
