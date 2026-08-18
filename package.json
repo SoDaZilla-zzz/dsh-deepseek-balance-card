@@ -1,6 +1,6 @@
 {
   "name": "dsh-liquid-glass-balance-card",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DeepSeek Harness (DSH) web GUI plugin: a draggable liquid-glass floating card showing DeepSeek API balance, cumulative spend and token usage in the top-right corner.",
   "type": "module",
   "main": "lib/index.js",
