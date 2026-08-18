@@ -36,6 +36,7 @@ A draggable **liquid-glass floating card** for the [DeepSeek Harness](https://gi
 | 3D thickness effect with toggle, depth and side-angle controls | 3D 立体厚度效果：可开关、调节厚度与侧向角度 |
 | Custom glass color while keeping liquid glass properties | 自定义玻璃颜色，调节后仍保持液态玻璃特性 |
 | Shows total balance, availability, granted & topped-up balance | 显示总余额、可用状态、赠送余额与充值余额 |
+| Currency preference (CNY / USD / Auto) to avoid multi-currency conflicts | 币种偏好（人民币/美元/自动），避免多币种余额冲突 |
 | Cumulative spend & cumulative tokens | 累计消费金额与累计 Token 用量 |
 | Time ranges: Today / Yesterday / Last 7 days / Last 30 days / All | 时间维度：今天 / 昨天 / 近7天 / 近30天 / 全部 |
 | Liquid-glass bar charts for 7d/30d spend & token trends | 近7天/近30天液态玻璃柱状图展示消费与 Token 趋势 |
