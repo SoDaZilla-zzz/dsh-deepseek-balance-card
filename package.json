@@ -1,6 +1,6 @@
 {
   "name": "dsh-liquid-glass-balance-card",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "DeepSeek Harness (DSH) web GUI plugin: a draggable liquid-glass floating card showing DeepSeek API balance, cumulative spend and token usage in the top-right corner.",
   "type": "module",
   "main": "lib/index.js",
@@ -25,6 +25,11 @@
     "./client": "./lib/client.js",
     "./package.json": "./package.json"
   },
+  "dependencies": {
+    "@deepseek-ai/dsh-credentials": "^0.1.0-rc.6",
+    "@deepseek-ai/dsh-settings": "^0.1.0-rc.6",
+    "@deepseek-ai/schemastery": "^3.18.1"
+  },
   "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
@@ -32,7 +37,9 @@
     "client": {
       "platform": "web",
       "inject": [
-        "slots"
+        "@deepseek-ai/dsh-cordis-client-runner",
+        "@deepseek-ai/dsh-client-connection",
+        "@deepseek-ai/dsh-client-ui-layout"
       ]
     }
   },
